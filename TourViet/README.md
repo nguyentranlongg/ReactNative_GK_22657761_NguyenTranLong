@@ -25,7 +25,7 @@
 Ví dụ dữ liệu (tạo đủ 12 bản ghi trên MockAPI; thay tên ở bản ghi đầu tiên):
 ```json
 [
-  {"name":"Đà Lạt mộng mơ cùng Nguyễn Trọng Tiến","city":"Đà Lạt","days":3,"price":3590000,"seats":0,"departure":"2026-11-05","image":"https://images.unsplash.com/photo-1470770841072-f978cf4d019e","isFavorite":true},
+  {"name":"Đà Lạt mộng mơ ","city":"Đà Lạt","days":3,"price":3590000,"seats":0,"departure":"2026-11-05","image":"https://images.unsplash.com/photo-1470770841072-f978cf4d019e","isFavorite":true},
   {"name":"Khám phá Đà Lạt","city":"Đà Lạt","days":2,"price":2290000,"seats":2,"departure":"2026-11-12","image":"https://images.unsplash.com/photo-1500530855697-b586d89ba3ee","isFavorite":false},
   {"name":"Săn mây Đà Lạt","city":"Đà Lạt","days":3,"price":3190000,"seats":8,"departure":"2026-12-01","image":"https://images.unsplash.com/photo-1464822759023-fed622ff2c3b","isFavorite":true},
   {"name":"Phố cổ Hội An","city":"Hội An","days":2,"price":1890000,"seats":0,"departure":"2026-11-08","image":"https://images.unsplash.com/photo-1528127269322-539801943592","isFavorite":false},
